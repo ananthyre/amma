@@ -5,3 +5,6 @@ super
 {
 king
 }
+1234
+joker
+hero
